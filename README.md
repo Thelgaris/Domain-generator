@@ -2,6 +2,9 @@ Hola 4Geeks teacher!!
 
 He creado este super cool generador de dominios y espero que te guste!!
 
+Para dar todas las combinaciones posibles de los objets que hay en cada array (lista de objetos) se ha creado un loop del tipo "for" que recorre todos los items del primer array "pronoun", empezando desde la posición "0". Dentro de ese primer loop se ha creado otro loop del mismo tipo "for" que selecciona y recorre el segundo array "adj". De esta manera, ahora mismo lo que tenemos es que el primer loop selecciona el primer item del primer array "pronoun" y pasa al segundo loop seleccionando primero el primer item del segundo array y luego el segundo. Una vez hecho esto, volvería al primer loop y escogería el segundo item del primer array para volver a recorrer el segundo array y así darte todas las combinaciones posibles entre el primero y el segundo array. Sin embargo en el ejercicio se nos pide esto pero con tres arrays diferentes más una variable "extensions" más que nos da la extensión de la web. Se crea una última variable que nos da la suma de las cuatro para así poder imprimir todas las combinaciones.
+
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
