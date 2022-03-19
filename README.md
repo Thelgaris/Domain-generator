@@ -1,3 +1,7 @@
+Hola 4Geeks teacher!!
+
+He creado este super cool generador de dominios y espero que te guste!!
+
 # Hello World with Vanilla JS
 
 Start coding in 30 seconds by opening this template in gitpod:
